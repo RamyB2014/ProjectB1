@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultProjectImport
   AutoSync="true"
-  LastImport="2019-01-29T17:28:26.0196070-08:00"
+  LastImport="2019-01-29T17:29:36.7704931-08:00"
   DeleteStale="true"
   DeleteUnreferenced="true">
   <Files>
@@ -10,15 +10,7 @@
       AbsoluteSource="file:///E:/C-Drive/rbutros/Documents/My Projects/ProjectA/ProjectA.flprj" />
   </Files>
   <ExcludedFiles />
-  <CollectedSourceFiles>
-    <Url
-      Source="../../../ProjectA/Content/TopicA.htm"
-      AbsoluteSource="file:///E:/C-Drive/rbutros/Documents/My Projects/ProjectA/Content/TopicA.htm" />
-  </CollectedSourceFiles>
+  <CollectedSourceFiles />
   <SkippedSourceFiles />
-  <GeneratedFiles>
-    <Url
-      Source="../../Content/TopicA.htm"
-      TimeStamp="1/16/2019 6:34:52 PM" />
-  </GeneratedFiles>
+  <GeneratedFiles />
 </CatapultProjectImport>
